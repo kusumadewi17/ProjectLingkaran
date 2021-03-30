@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lingkaran</string>
+    <string name="jari">Jari-Jari</string>
+    <string name="hitung">Hitung Luas dan Keliling</string>
+    <string name="luas">Luas Lingkaran</string>
+    <string name="keliling">Keliling Lingkaran</string>
+    <string name="masukan_jari_jari">Masukan Jari-jari</string>
+    <string name="menghitung_luas_dan_keliling_lingkaran">MENGHITUNG LUAS DAN KELILING LINGKARAN</string>
+    <string name="luas_lingkaran">Luas Lingkaran :</string>
+    <string name="keliling_lingkaran">Keliling Lingkaran :</string>
+</resources>
